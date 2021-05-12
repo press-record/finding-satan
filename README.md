@@ -1,2 +1,3 @@
 # finding-satan
-an open source project for conspiracy theorists. 
+An open source project for conspiracy theorists. 
+Who is behind these conspiracies? 
